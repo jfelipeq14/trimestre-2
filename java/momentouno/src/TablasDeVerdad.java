@@ -1,3 +1,5 @@
+package momentouno.src;
+
 public class TablasDeVerdad {
     public static void main(String[] args) {
         boolean v = true;
